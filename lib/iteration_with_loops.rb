@@ -19,9 +19,3 @@ def find_min_in_nested_arrays(src)
   end
   lowest_temps
 end
-
-puts find_min_in_nested_arrays([
-  [19, 21, 24, 26],
-  [17, 18, 22, 26],
-  [13, 15, 20, 12]
-])
