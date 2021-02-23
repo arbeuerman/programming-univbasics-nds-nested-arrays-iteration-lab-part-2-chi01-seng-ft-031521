@@ -20,6 +20,7 @@ def find_min_in_nested_arrays(src)
     binding.pry
     row_index += 1
   end
+  lowest_temps
 end
 
 puts find_min_in_nested_arrays([
